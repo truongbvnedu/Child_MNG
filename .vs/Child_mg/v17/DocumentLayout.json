@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\THIS PC\\source\\repos\\Child_mg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B008068E-B9E7-40A0-95F2-5E94F2BC1A84}|Child_mg\\Child_mg.csproj|c:\\users\\this pc\\source\\repos\\child_mg\\child_mg\\edirschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B008068E-B9E7-40A0-95F2-5E94F2BC1A84}|Child_mg\\Child_mg.csproj|solutionrelative:child_mg\\edirschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B008068E-B9E7-40A0-95F2-5E94F2BC1A84}|Child_mg\\Child_mg.csproj|c:\\users\\this pc\\source\\repos\\child_mg\\child_mg\\controllers\\schedule.controllers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B008068E-B9E7-40A0-95F2-5E94F2BC1A84}|Child_mg\\Child_mg.csproj|solutionrelative:child_mg\\controllers\\schedule.controllers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B008068E-B9E7-40A0-95F2-5E94F2BC1A84}|Child_mg\\Child_mg.csproj|C:\\Users\\THIS PC\\source\\repos\\Child_mg\\child_mg\\editsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B008068E-B9E7-40A0-95F2-5E94F2BC1A84}|Child_mg\\Child_mg.csproj|solutionrelative:child_mg\\editsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B008068E-B9E7-40A0-95F2-5E94F2BC1A84}|Child_mg\\Child_mg.csproj|C:\\Users\\THIS PC\\source\\repos\\Child_mg\\child_mg\\edirschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B008068E-B9E7-40A0-95F2-5E94F2BC1A84}|Child_mg\\Child_mg.csproj|solutionrelative:child_mg\\edirschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B008068E-B9E7-40A0-95F2-5E94F2BC1A84}|Child_mg\\Child_mg.csproj|c:\\users\\this pc\\source\\repos\\child_mg\\child_mg\\controllers\\child.controllers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B008068E-B9E7-40A0-95F2-5E94F2BC1A84}|Child_mg\\Child_mg.csproj|solutionrelative:child_mg\\controllers\\child.controllers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B008068E-B9E7-40A0-95F2-5E94F2BC1A84}|Child_mg\\Child_mg.csproj|c:\\users\\this pc\\source\\repos\\child_mg\\child_mg\\controllers\\subject.controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B008068E-B9E7-40A0-95F2-5E94F2BC1A84}|Child_mg\\Child_mg.csproj|solutionrelative:child_mg\\controllers\\subject.controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B008068E-B9E7-40A0-95F2-5E94F2BC1A84}|Child_mg\\Child_mg.csproj|C:\\Users\\THIS PC\\source\\repos\\Child_mg\\child_mg\\scheduleteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B008068E-B9E7-40A0-95F2-5E94F2BC1A84}|Child_mg\\Child_mg.csproj|solutionrelative:child_mg\\scheduleteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B008068E-B9E7-40A0-95F2-5E94F2BC1A84}|Child_mg\\Child_mg.csproj|C:\\Users\\THIS PC\\source\\repos\\Child_mg\\child_mg\\schedulefrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B008068E-B9E7-40A0-95F2-5E94F2BC1A84}|Child_mg\\Child_mg.csproj|solutionrelative:child_mg\\schedulefrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 170,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "schedule.Controllers.cs",
+              "DocumentMoniker": "C:\\Users\\THIS PC\\source\\repos\\Child_mg\\Child_mg\\Controllers\\schedule.Controllers.cs",
+              "RelativeDocumentMoniker": "Child_mg\\Controllers\\schedule.Controllers.cs",
+              "ToolTip": "C:\\Users\\THIS PC\\source\\repos\\Child_mg\\Child_mg\\Controllers\\schedule.Controllers.cs",
+              "RelativeToolTip": "Child_mg\\Controllers\\schedule.Controllers.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAA/wGYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T10:19:15.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "subject.controller.cs",
+              "DocumentMoniker": "C:\\Users\\THIS PC\\source\\repos\\Child_mg\\Child_mg\\Controllers\\subject.controller.cs",
+              "RelativeDocumentMoniker": "Child_mg\\Controllers\\subject.controller.cs",
+              "ToolTip": "C:\\Users\\THIS PC\\source\\repos\\Child_mg\\Child_mg\\Controllers\\subject.controller.cs",
+              "RelativeToolTip": "Child_mg\\Controllers\\subject.controller.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA3wCYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T10:05:34.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "edirSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\THIS PC\\source\\repos\\Child_mg\\Child_mg\\edirSchedule.cs",
+              "RelativeDocumentMoniker": "Child_mg\\edirSchedule.cs",
+              "ToolTip": "C:\\Users\\THIS PC\\source\\repos\\Child_mg\\Child_mg\\edirSchedule.cs",
+              "RelativeToolTip": "Child_mg\\edirSchedule.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAIAwwIsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T08:30:07.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "child.controllers.cs",
+              "DocumentMoniker": "C:\\Users\\THIS PC\\source\\repos\\Child_mg\\Child_mg\\Controllers\\child.controllers.cs",
+              "RelativeDocumentMoniker": "Child_mg\\Controllers\\child.controllers.cs",
+              "ToolTip": "C:\\Users\\THIS PC\\source\\repos\\Child_mg\\Child_mg\\Controllers\\child.controllers.cs",
+              "RelativeToolTip": "Child_mg\\Controllers\\child.controllers.cs",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAUwNUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T08:05:04.745Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "editsubject.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\THIS PC\\source\\repos\\Child_mg\\Child_mg\\editsubject.cs",
+              "RelativeDocumentMoniker": "Child_mg\\editsubject.cs",
+              "ToolTip": "C:\\Users\\THIS PC\\source\\repos\\Child_mg\\Child_mg\\editsubject.cs [Design]",
+              "RelativeToolTip": "Child_mg\\editsubject.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T10:49:47.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "edirSchedule.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\THIS PC\\source\\repos\\Child_mg\\Child_mg\\edirSchedule.cs",
+              "RelativeDocumentMoniker": "Child_mg\\edirSchedule.cs",
+              "ToolTip": "C:\\Users\\THIS PC\\source\\repos\\Child_mg\\Child_mg\\edirSchedule.cs [Design]",
+              "RelativeToolTip": "Child_mg\\edirSchedule.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T10:48:17.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "scheduleFrom.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\THIS PC\\source\\repos\\Child_mg\\Child_mg\\scheduleFrom.cs",
+              "RelativeDocumentMoniker": "Child_mg\\scheduleFrom.cs",
+              "ToolTip": "C:\\Users\\THIS PC\\source\\repos\\Child_mg\\Child_mg\\scheduleFrom.cs [Design]",
+              "RelativeToolTip": "Child_mg\\scheduleFrom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T10:48:16.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "scheduleteacher.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\THIS PC\\source\\repos\\Child_mg\\Child_mg\\scheduleteacher.cs",
+              "RelativeDocumentMoniker": "Child_mg\\scheduleteacher.cs",
+              "ToolTip": "C:\\Users\\THIS PC\\source\\repos\\Child_mg\\Child_mg\\scheduleteacher.cs [Design]",
+              "RelativeToolTip": "Child_mg\\scheduleteacher.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T10:48:14.483Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
